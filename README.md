@@ -14,7 +14,7 @@
 Sou um **Software Engineer** focado no ecossistema backend, com especial interesse na construção de APIs REST robustas, escaláveis e seguras utilizando **Java** e **Spring Boot**. Acredito no aprendizado contínuo e na aplicação de boas práticas de arquitetura e computação em nuvem.
 
 ### 🛠️ Tecnologias & Ferramentas
-* **Linguagens:** Java, SQL
+* **Linguagens:** JAVA, HTML, CSS, AWS
 * **Frameworks:** Spring Boot, Spring Data JPA, Spring Security
 * **Arquitetura & APIs:** RESTful APIs, Microservices, Design Patterns
 * **DevOps & Cloud:** Docker, AWS Cloud
