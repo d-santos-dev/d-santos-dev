@@ -22,9 +22,15 @@ Sou um **Software Engineer** focado no ecossistema backend, com especial interes
 
 ### 📈 Estatísticas do GitHub
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dsantos233&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsantos233&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Principais">
+### 📈 Estatísticas do GitHub
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=d-santos-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-santos-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Principais">
 </p>
+
+---
+📫 **Como entrar em contacto:**
+* **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/dsantos2025)
 
 ---
 📫 **Como entrar em contacto:**
