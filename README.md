@@ -19,7 +19,7 @@ Engenheiro de Software focado em desenvolvimento **Backend** no ecossistema **Ja
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Java`, `HTML`, `CSS`,|
+| **Linguagens** | `JAVA`, `HTML`, `CSS`,|
 | **Frameworks** | `Spring Boot`, `Spring Data JPA`, `Spring Security` |
 | **Arquitetura & APIs** | `RESTful APIs`, `Microservices`, `Design Patterns` |
 | **DevOps & Cloud** | `Docker`, `AWS Cloud`, `Git`, `GitHub` |
