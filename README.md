@@ -19,7 +19,7 @@ Engenheiro de Software focado em desenvolvimento **Backend** no ecossistema **Ja
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Java`, `SQL` |
+| **Linguagens** | `Java`, `HTML`, `CSS`, `AWS`, `SPRING BOOT`|
 | **Frameworks** | `Spring Boot`, `Spring Data JPA`, `Spring Security` |
 | **Arquitetura & APIs** | `RESTful APIs`, `Microservices`, `Design Patterns` |
 | **DevOps & Cloud** | `Docker`, `AWS Cloud`, `Git`, `GitHub` |
@@ -33,7 +33,7 @@ Engenheiro de Software focado em desenvolvimento **Backend** no ecossistema **Ja
   <a href="https://www.linkedin.com/in/dsantos2025" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:danilo.santos@email.com" target="_blank">
+  <a href="mailto:danilosantossilv82@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
